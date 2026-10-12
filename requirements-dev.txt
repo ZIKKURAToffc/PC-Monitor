@@ -1,0 +1,3 @@
+-r requirements.txt
+Pillow>=11,<13
+pyflakes>=3,<5
